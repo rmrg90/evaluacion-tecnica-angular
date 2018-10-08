@@ -9,5 +9,5 @@ input[readonly] {
 
 
 .invalid {
-  background-color: pink;
+  background-color: pink!important;
 }

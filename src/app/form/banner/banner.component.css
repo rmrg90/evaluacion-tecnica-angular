@@ -1,0 +1,22 @@
+.banner{
+  width: 80%;
+  height: 200px;
+  background-color: forestgreen;
+  color: white;
+  font-size: 80px;
+  margin-left:auto;
+  margin-right:auto;
+  display:block;
+  padding: 5px 30px 5px 30px;
+  margin-top: 15px;
+  margin-bottom: 30px;
+  border-radius: 35px;
+
+}
+
+.leaf-image{
+  width: 100px;
+  height: 100px;
+  -webkit-transform: scaleX(-1);
+  transform: scaleX(-1);
+}

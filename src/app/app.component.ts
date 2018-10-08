@@ -16,7 +16,6 @@ export class AppComponent {
       new Field(FieldType.MAIL, '', 'E-mail', 2),
       new Field(FieldType.PHONE, '', 'Teléfono', 3),
       new Field(FieldType.DATE, '', 'Fecha', 4),
-      new Field(FieldType.CITY, '', 'Ciudad y Estado', 5),
-      new Field(FieldType.TEXT, '', '11', 6)];
+      new Field(FieldType.CITY, '', 'Ciudad y Estado', 5)];
   }
 }
